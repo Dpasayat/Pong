@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SFML_Projects\\Pong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB422E01-43D3-4330-ACBD-0B76F1D6043F}|Pong.vcxproj|E:\\SFML_Projects\\Pong\\Ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB422E01-43D3-4330-ACBD-0B76F1D6043F}|Pong.vcxproj|solutionrelative:Ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB422E01-43D3-4330-ACBD-0B76F1D6043F}|Pong.vcxproj|E:\\SFML_Projects\\Pong\\Pong.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB422E01-43D3-4330-ACBD-0B76F1D6043F}|Pong.vcxproj|solutionrelative:Pong.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB422E01-43D3-4330-ACBD-0B76F1D6043F}|Pong.vcxproj|E:\\SFML_Projects\\Pong\\Bat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB422E01-43D3-4330-ACBD-0B76F1D6043F}|Pong.vcxproj|solutionrelative:Bat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB422E01-43D3-4330-ACBD-0B76F1D6043F}|Pong.vcxproj|E:\\SFML_Projects\\Pong\\Bat.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB422E01-43D3-4330-ACBD-0B76F1D6043F}|Pong.vcxproj|solutionrelative:Bat.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB422E01-43D3-4330-ACBD-0B76F1D6043F}|Pong.vcxproj|E:\\SFML_Projects\\Pong\\Ball.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB422E01-43D3-4330-ACBD-0B76F1D6043F}|Pong.vcxproj|solutionrelative:Ball.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ball.cpp",
+              "DocumentMoniker": "E:\\SFML_Projects\\Pong\\Ball.cpp",
+              "RelativeDocumentMoniker": "Ball.cpp",
+              "ToolTip": "E:\\SFML_Projects\\Pong\\Ball.cpp",
+              "RelativeToolTip": "Ball.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T18:16:30.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ball.hpp",
+              "DocumentMoniker": "E:\\SFML_Projects\\Pong\\Ball.hpp",
+              "RelativeDocumentMoniker": "Ball.hpp",
+              "ToolTip": "E:\\SFML_Projects\\Pong\\Ball.hpp",
+              "RelativeToolTip": "Ball.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-28T18:08:34.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bat.cpp",
+              "DocumentMoniker": "E:\\SFML_Projects\\Pong\\Bat.cpp",
+              "RelativeDocumentMoniker": "Bat.cpp",
+              "ToolTip": "E:\\SFML_Projects\\Pong\\Bat.cpp",
+              "RelativeToolTip": "Bat.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T17:57:43.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bat.hpp",
+              "DocumentMoniker": "E:\\SFML_Projects\\Pong\\Bat.hpp",
+              "RelativeDocumentMoniker": "Bat.hpp",
+              "ToolTip": "E:\\SFML_Projects\\Pong\\Bat.hpp",
+              "RelativeToolTip": "Bat.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-28T17:52:19.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pong.cpp",
+              "DocumentMoniker": "E:\\SFML_Projects\\Pong\\Pong.cpp",
+              "RelativeDocumentMoniker": "Pong.cpp",
+              "ToolTip": "E:\\SFML_Projects\\Pong\\Pong.cpp",
+              "RelativeToolTip": "Pong.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEEAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T17:31:10.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
